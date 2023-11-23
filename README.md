@@ -17,3 +17,15 @@ Task 2 involves creating a Java program to calculate grades based on the average
 ### Task 3: ATM Simulation
 
 Task 3 is an ATM simulation program. It allows users to perform various banking operations, including checking balances, depositing money, and withdrawing money. The program connects to a user's bank account and provides a user-friendly interface.
+
+
+
+Please check my linkdin posts to know more:
+-> https://www.linkedin.com/posts/thasya-sri-khandrika-4074b025b_javaprogramming-codingadventures-simulation-activity-7122907153094365184-6RjL?utm_source=share&utm_medium=member_desktop
+
+->https://www.linkedin.com/posts/thasya-sri-khandrika-4074b025b_javaprogramming-achievementunlocked-codingadventures-activity-7122861849175326720-Kp5Q?utm_source=share&utm_medium=member_desktop
+
+->https://www.linkedin.com/posts/thasya-sri-khandrika-4074b025b_javaprogramming-achievementunlocked-codingfun-activity-7122829378413068288-CL_b?utm_source=share&utm_medium=member_desktop
+
+
+
